@@ -1,0 +1,1410 @@
+{
+  "Crafts Room": [
+    {
+      "bundle_name": "Spring Foraging Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/8/8a/Spring_Foraging_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Spring Seeds",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/39/Spring_Seeds.png/24px-Spring_Seeds.png"
+      },
+      "items": [
+        {
+          "name": "Wild Horseradish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Spring Foraging"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Daffodil.png/24px-Daffodil.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Spring Foraging, buy from Pierre at Flower Dance"
+        },
+        {
+          "name": "Leek",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/57/Leek.png/24px-Leek.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SpringForaging"
+        },
+        {
+          "name": "Dandelion",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Dandelion.png/24px-Dandelion.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Spring Foraging, buy from Pierre at Flower Dance"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Summer Foraging Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Foraging_Bundle.png",
+      "min_submission": 3,
+      "reward": {
+        "reward_name": "Summer Seeds",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c4/Summer_Seeds.png/24px-Summer_Seeds.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Foraging_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Spice Berry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Spice_Berry.png/24px-Spice_Berry.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerForaging,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Sweet Pea",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/Sweet_Pea.png/24px-Sweet_Pea.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerForaging"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Fall Foraging Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Fall_Foraging_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Fall Seeds",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/55/Fall_Seeds.png/24px-Fall_Seeds.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Fall_Foraging_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Wild Plum",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Wild_Plum.png/24px-Wild_Plum.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallForaging,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Hazelnut",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Hazelnut.png/24px-Hazelnut.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallForaging"
+        },
+        {
+          "name": "Blackberry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Blackberry.png/24px-Blackberry.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallForaging,The Farm Cave(fruit bat option)"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Winter Foraging Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/1/17/Winter_Foraging_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Winter Seeds",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/dd/Winter_Seeds.png/24px-Winter_Seeds.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/17/Winter_Foraging_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Crystal Fruit",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/16/Crystal_Fruit.png/24px-Crystal_Fruit.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "WinterForaging, dropped byDust Spriteson floors 41-79 ofThe Mines"
+        },
+        {
+          "name": "Snow Yam",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Snow_Yam.png/24px-Snow_Yam.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Tillingsoil orArtifact SpotsinWinter"
+        },
+        {
+          "name": "Crocus",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Crocus.png/24px-Crocus.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "WinterForaging"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Construction Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Construction_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Charcoal Kiln",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/76/Charcoal_Kiln.png/24px-Charcoal_Kiln.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Construction_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Wood",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "ChoppingTreesor branches with anAxe,Carpenter's Shop"
+        },
+        {
+          "name": "Stone",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Smashing stones with aPickaxe,Carpenter's Shop"
+        },
+        {
+          "name": "Hardwood",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png",
+          "quantity": 10,
+          "quality": null,
+          "source": "ChoppingLarge StumpsorLarge Logswith an upgradedAxe, smashing crates inThe Mines, choppingMahogany Trees"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Exotic Foraging Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Exotic_Foraging_Bundle.png",
+      "min_submission": 5,
+      "reward": {
+        "reward_name": "Autumn's Bounty",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Autumn%27s_Bounty.png/24px-Autumn%27s_Bounty.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Exotic_Foraging_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Cactus Fruit",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "DesertForaging,Oasis"
+        },
+        {
+          "name": "Cave Carrot",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Cave_Carrot.png/24px-Cave_Carrot.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "The Mines, either smashing boxes ortillingsoil"
+        },
+        {
+          "name": "Red Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "ForaginginThe Mines,SummerorFallForagingin theSecret Woods,The Farm Cave(mushroom option),TappingaMushroom Tree,Forest Farm MapinFall."
+        },
+        {
+          "name": "Purple Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "The Mines,The Farm Cave(mushroom option),Forest Farm MapForaginginFall"
+        },
+        {
+          "name": "Maple Syrup",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "TappedMaple Tree"
+        },
+        {
+          "name": "Oak Resin",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "TappedOak Tree,Haunted Skull"
+        },
+        {
+          "name": "Pine Tar",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Pine_Tar.png/24px-Pine_Tar.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "TappedPine Tree"
+        },
+        {
+          "name": "Morel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Morel.png/24px-Morel.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Foragingin theSecret WoodsorForest Farm MapinSpring,The Farm Cave(mushroom option)"
+        }
+      ]
+    }
+  ],
+  "Pantry": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "Spring Crops Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Spring_Crops_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Speed-Gro",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Speed-Gro.png/24px-Speed-Gro.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Spring_Crops_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Green Bean",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Green_Bean.png/24px-Green_Bean.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SpringCrops"
+        },
+        {
+          "name": "Cauliflower",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/24px-Cauliflower.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SpringCrops"
+        },
+        {
+          "name": "Potato",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SpringCrops"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Summer Crops Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/2/27/Summer_Crops_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Quality Sprinkler",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/af/Quality_Sprinkler.png/24px-Quality_Sprinkler.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/27/Summer_Crops_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Hot Pepper",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerCrops"
+        },
+        {
+          "name": "Blueberry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Blueberry.png/24px-Blueberry.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerCrops"
+        },
+        {
+          "name": "Melon",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerCrops"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Fall Crops Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Fall_Crops_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Bee House",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bee_House.png/24px-Bee_House.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Fall_Crops_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Eggplant",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Eggplant.png/24px-Eggplant.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallCrops"
+        },
+        {
+          "name": "Pumpkin",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallCrops"
+        },
+        {
+          "name": "Yam",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "FallCrops, dropped byDuggieson floors 6-29 ofThe Mines(3%)"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Quality Crops Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Quality_Crops_Bundle.png",
+      "min_submission": 3,
+      "reward": {
+        "reward_name": "Preserves Jar",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1e/Preserves_Jar.png/24px-Preserves_Jar.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Quality_Crops_Bundle.png",
+          "quantity": 1,
+          "quality": "Quality Crops Bundle.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Parsnip"
+        },
+        {
+          "name": "Melon",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+          "quantity": 5,
+          "quality": "Gold Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Melon"
+        },
+        {
+          "name": "Pumpkin",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+          "quantity": 5,
+          "quality": "Gold Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Pumpkin"
+        },
+        {
+          "name": "Corn",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+          "quantity": 5,
+          "quality": "Gold Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Corn"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Animal Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Animal_Bundle.png",
+      "min_submission": 5,
+      "reward": {
+        "reward_name": "Cheese Press",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/79/Cheese_Press.png/24px-Cheese_Press.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Animal_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Large Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Large_Brown_Egg.png/24px-Large_Brown_Egg.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "BrownChickens"
+        },
+        {
+          "name": "Large Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Large_Egg.png/24px-Large_Egg.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "WhiteChickens"
+        },
+        {
+          "name": "Large Goat Milk",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Large_Goat_Milk.png/24px-Large_Goat_Milk.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Goats"
+        },
+        {
+          "name": "Wool",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Wool.png/24px-Wool.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Sheep,Rabbits"
+        },
+        {
+          "name": "Duck Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Duck_Egg.png/24px-Duck_Egg.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Ducks"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Artisan Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Artisan_Bundle.png",
+      "min_submission": 6,
+      "reward": {
+        "reward_name": "Keg",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7c/Keg.png/24px-Keg.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Artisan_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Cloth",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/Cloth.png/24px-Cloth.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Loom,RecyclingaSoggy Newspaper,Desert Trader, dropped byMummiesinSkull Cavern"
+        },
+        {
+          "name": "Goat Cheese",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/24px-Goat_Cheese.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Cheese Press"
+        },
+        {
+          "name": "Cheese",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Cheese.png/24px-Cheese.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Cheese Press,Desert Trader"
+        },
+        {
+          "name": "Honey",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Bee House,Oasis"
+        },
+        {
+          "name": "Jellies and Pickles",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Jelly.png/24px-Jelly.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Preserves Jar"
+        },
+        {
+          "name": "Apple",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Apple TreesduringFall,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Apricot",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fc/Apricot.png/24px-Apricot.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Apricot TreesduringSpring,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Orange",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/24px-Orange.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Orange TreesduringSummer,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Peach",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Peach TreesduringSummer,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Pomegranate",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Pomegranate TreesduringFall,The Farm Cave(fruit bat option)"
+        },
+        {
+          "name": "Cherry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Cherry.png/24px-Cherry.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Cherry TreesduringSpring,The Farm Cave(fruit bat option)"
+        }
+      ]
+    }
+  ],
+  "Fish Tank": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "River Fish Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/River_Fish_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Deluxe Bait",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Deluxe_Bait.png/24px-Deluxe_Bait.png"
+      },
+      "items": [
+        {
+          "name": "Farm Maps",
+          "quantity": 1,
+          "quality": null
+        },
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/River_Fish_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Catfish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Catfish.png/24px-Catfish.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in Rivers andSecret Woods, 6am – midnight,SpringandFall. Only when raining.Can be found inSummerduring rain in theSecret WoodsandWitch's Swamp,Winterwith aRain Totem."
+        },
+        {
+          "name": "Shad",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Shad.png/24px-Shad.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in Rivers, 9am – 2am,Spring,Summer, andFall. Only when raining."
+        },
+        {
+          "name": "Tiger Trout",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Tiger_Trout.png/24px-Tiger_Trout.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in Rivers, 6am – 7pm,FallandWinter. Can be found in anyweather."
+        }
+      ]
+    },
+    {
+      "bundle_name": "Lake Fish Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/4/46/Lake_Fish_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Dressed Spinner",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e8/Dressed_Spinner.png/24px-Dressed_Spinner.png"
+      },
+      "items": [
+        {
+          "name": "Weather",
+          "quantity": 1,
+          "quality": null
+        },
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/46/Lake_Fish_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Carp",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Carp.png/24px-Carp.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Mountain Lake, Anytime, duringSpring,Summer, orFall.Found inSecret WoodsorSewer, Anytime, All Seasons."
+        },
+        {
+          "name": "Bullhead",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Bullhead.png/24px-Bullhead.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Mountain Lake, Anytime, All Seasons."
+        },
+        {
+          "name": "Sturgeon",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Mountain Lake, 6am – 7pm,SummerandWinter."
+        }
+      ]
+    },
+    {
+      "bundle_name": "Ocean Fish Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Ocean_Fish_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Warp Totem: Beach",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Warp_Totem_Beach.png/24px-Warp_Totem_Beach.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/ac/Ocean_Fish_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Tuna",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tuna.png/24px-Tuna.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Ocean, 6am – 7pm,SummerandWinter."
+        },
+        {
+          "name": "Red Snapper",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d3/Red_Snapper.png/24px-Red_Snapper.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Ocean, 6am – 7pm,SummerandFall. Only when raining."
+        },
+        {
+          "name": "Tilapia",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Tilapia.png/24px-Tilapia.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Ocean, 6am – 2pm,SummerandFall."
+        }
+      ]
+    },
+    {
+      "bundle_name": "Night Fishing Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Night_Fishing_Bundle.png",
+      "min_submission": 3,
+      "reward": {
+        "reward_name": "Glow Ring",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Glow_Ring.png/24px-Glow_Ring.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/Night_Fishing_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Bream",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/24px-Bream.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in Rivers, 6pm – 2am, All Seasons."
+        },
+        {
+          "name": "Eel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the Ocean, 4pm – 2am,SpringorFall. Only when raining."
+        }
+      ]
+    },
+    {
+      "bundle_name": "Crab Pot Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/2/22/Crab_Pot_Bundle.png",
+      "min_submission": 5,
+      "reward": {
+        "reward_name": "Crab Pot",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Crab_Pot.png/24px-Crab_Pot.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/22/Crab_Pot_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Crayfish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crayfish.png/24px-Crayfish.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(freshwater)"
+        },
+        {
+          "name": "Crab",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crab.png/24px-Crab.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean), drops fromRock CrabsorLava CrabsinThe Mines"
+        },
+        {
+          "name": "Cockle",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Cockle.png/24px-Cockle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean),BeachForaging"
+        },
+        {
+          "name": "Mussel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Mussel.png/24px-Mussel.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean),BeachForaging"
+        },
+        {
+          "name": "Shrimp",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Shrimp.png/24px-Shrimp.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean)"
+        },
+        {
+          "name": "Snail",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/24px-Snail.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(freshwater)"
+        },
+        {
+          "name": "Periwinkle",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(freshwater)"
+        },
+        {
+          "name": "Oyster",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Oyster.png/24px-Oyster.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean),BeachForaging"
+        },
+        {
+          "name": "Clam",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Clam.png/24px-Clam.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Caught inCrab Pots(ocean),BeachForaging"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Specialty Fish Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/0/03/Specialty_Fish_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Dish O' The Sea",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/ff/Dish_O%27_The_Sea.png/24px-Dish_O%27_The_Sea.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/0/03/Specialty_Fish_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Ghostfish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/72/Ghostfish.png/24px-Ghostfish.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in ponds inThe Minesfloors 20 and 60, Anytime, All Seasons. May also be dropped byGhosts."
+        },
+        {
+          "name": "Sandfish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Sandfish.png/24px-Sandfish.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in the pond inThe Desert, 6am – 8pm, All Seasons."
+        },
+        {
+          "name": "Woodskip",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/97/Woodskip.png/24px-Woodskip.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Found in theSecret Woodsand theForest Farm, Anytime, All Seasons."
+        }
+      ]
+    }
+  ],
+  "Boiler Room": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "Blacksmith's Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Blacksmith_Bundle.png",
+      "min_submission": 3,
+      "reward": {
+        "reward_name": "Furnace",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/0f/Furnace.png/24px-Furnace.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Blacksmith_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Iron Bar",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/24px-Iron_Bar.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SmeltingIron Orein theFurnace,Craftingthe \"Transmute (Fe)\" recipe"
+        },
+        {
+          "name": "Gold Bar",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SmeltingGold Orein theFurnace,Craftingthe \"Transmute (Au)\" recipe"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Geologist's Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/6/68/Geologist%27s_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Omni Geode",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/09/Omni_Geode.png/24px-Omni_Geode.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/68/Geologist%27s_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Earth Crystal",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Earth_Crystal.png/24px-Earth_Crystal.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Foragingon floors 1-39 ofThe Mines,Geodes,Omni Geodes, drop fromDuggiesin the Mines (floors 6-29)"
+        },
+        {
+          "name": "Frozen Tear",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/24px-Frozen_Tear.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Foragingon floors 41-79 ofThe Mines,Frozen Geodes,Omni Geodes, drop fromDust Spritesin the Mines (floors 41-79)"
+        },
+        {
+          "name": "Fire Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Fire_Quartz.png/24px-Fire_Quartz.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Foragingon floors 81-119 ofThe Mines,Magma Geodes,Omni Geodes"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Adventurer's Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Adventurer%27s_Bundle.png",
+      "min_submission": 2,
+      "reward": {
+        "reward_name": "Small Magnet Ring",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Small_Magnet_Ring.png/24px-Small_Magnet_Ring.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Adventurer%27s_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Bat Wing",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/35/Bat_Wing.png/24px-Bat_Wing.png",
+          "quantity": 10,
+          "quality": null,
+          "source": "Dropped byBatsinThe Minesor theSkull Cavern"
+        },
+        {
+          "name": "Solar Essence",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Dropped byGhosts,Squid Kids, orMetal HeadsinThe Mines, dropped byMummiesorIridium Batsin theSkull Cavern; produced bySunfishinFish Ponds; buy fromKrobus"
+        },
+        {
+          "name": "Void Essence",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Dropped byShadow BrutesorShadow ShamansinThe MinesorSerpentsin theSkull Cavern; produced byVoid SalmoninFish Ponds; buy fromKrobus"
+        }
+      ]
+    }
+  ],
+  "Bulletin Board": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "Chef's Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Chef%27s_Bundle.png",
+      "min_submission": 6,
+      "reward": {
+        "reward_name": "Pink Cake",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Pink_Cake.png/24px-Pink_Cake.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Chef%27s_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Fiddlehead Fern",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Fiddlehead_Fern.png/24px-Fiddlehead_Fern.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerForagingin theSecret Woods, Foraging on Prehistoric Floors at theSkull Cavern, Cutting downGreen Rain Trees"
+        },
+        {
+          "name": "Truffle",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Truffle.png/24px-Truffle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Pigs"
+        },
+        {
+          "name": "Poppy",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerCrops"
+        },
+        {
+          "name": "Maki Roll",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Maki_Roll.png/24px-Maki_Roll.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Cooking(recipe sources:The Queen of Sauce,The Saloon)"
+        },
+        {
+          "name": "Fried Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Cooking"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Dye Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Dye_Bundle.png",
+      "min_submission": 6,
+      "reward": {
+        "reward_name": "Seed Maker",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Seed_Maker.png/24px-Seed_Maker.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Dye_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Sea Urchin",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Sea_Urchin.png/24px-Sea_Urchin.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "BeachForaging, after using 300woodto fix the bridge to the right side ofThe Beachor any side of the beach duringcrab mating season; foraging in the Beach Farm"
+        },
+        {
+          "name": "Sunflower",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Summer/FallCrops"
+        },
+        {
+          "name": "Duck Feather",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/24px-Duck_Feather.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Ducks"
+        },
+        {
+          "name": "Aquamarine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/24px-Aquamarine.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Aquamarine Nodes, boxes inThe Mines,Fishing Treasure Chests"
+        },
+        {
+          "name": "Red Cabbage",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "SummerCrops(Red Cabbage Seedsare available atPierre's General Storein year 2+, at theTraveling Cart, or dropped bySerpents,Mummies, andPurple Slimes)"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Field Research Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Field_Research_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Recycling Machine",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/26/Recycling_Machine.png/24px-Recycling_Machine.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/86/Field_Research_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Nautilus Shell",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Nautilus_Shell.png/24px-Nautilus_Shell.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "WinterBeachForaging,Beach Farm MapForagingduring any season, Random gift fromDemetrius(Note: NOT theNautilus Fossilartifact)"
+        },
+        {
+          "name": "Chub",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Chub.png/24px-Chub.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Can be found in the mountain lake and river during all seasons, any time."
+        },
+        {
+          "name": "Frozen Geode",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bf/Frozen_Geode.png/24px-Frozen_Geode.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "The Minesfloors 41-79"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Fodder Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Fodder_Bundle.png",
+      "min_submission": 3,
+      "reward": {
+        "reward_name": "Heater",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/93/Heater.png/24px-Heater.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Fodder_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Hay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Hay.png/24px-Hay.png",
+          "quantity": 10,
+          "quality": null,
+          "source": "Purchase atMarnie's RanchorDesert Trader, or harvest fromGrassorWheat."
+        },
+        {
+          "name": "Apple",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+          "quantity": 3,
+          "quality": null,
+          "source": "Apple TreesduringFall,The Farm Cave(fruit bat option)"
+        }
+      ]
+    },
+    {
+      "bundle_name": "Enchanter's Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Enchanter%27s_Bundle.png",
+      "min_submission": 4,
+      "reward": {
+        "reward_name": "Gold Bar",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Enchanter%27s_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Wine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Keg"
+        },
+        {
+          "name": "Rabbit's Foot",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Rabbit%27s_Foot.png/24px-Rabbit%27s_Foot.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Rabbits,Serpentdrop inSkull Cavern(0.8%)"
+        },
+        {
+          "name": "Pomegranate",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Pomegranate TreesduringFall,The Farm Cave(fruit bat option)"
+        }
+      ]
+    }
+  ],
+  "Vault": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "2,500 Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+      "reward": {
+        "reward_name": "Chocolate Cake",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/87/Chocolate_Cake.png/24px-Chocolate_Cake.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/2500_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "data-sort-value=\"2500\">2,500g"
+        }
+      ]
+    },
+    {
+      "bundle_name": "5,000 Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+      "reward": {
+        "reward_name": "Quality Fertilizer",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a0/Quality_Fertilizer.png/24px-Quality_Fertilizer.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/17/5000_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "data-sort-value=\"5000\">5,000g"
+        }
+      ]
+    },
+    {
+      "bundle_name": "10,000 Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+      "reward": {
+        "reward_name": "Lightning Rod",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/62/Lightning_Rod.png/24px-Lightning_Rod.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/10000_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "data-sort-value=\"10000\">10,000g"
+        }
+      ]
+    },
+    {
+      "bundle_name": "25,000 Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "reward": {
+        "reward_name": "Crystalarium",
+        "reward_image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crystalarium.png/24px-Crystalarium.png"
+      },
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/25000_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "data-sort-value=\"25000\">25,000g"
+        }
+      ]
+    }
+  ],
+  "Abandoned JojaMart": [
+    {
+      "bundle_name": "",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png",
+      "items": []
+    },
+    {
+      "bundle_name": "The Missing Bundle",
+      "bundle_icon": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+      "bundle_image": "https://stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png",
+      "min_submission": 5,
+      "items": [
+        {
+          "name": "",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png",
+          "quantity": 1,
+          "quality": null,
+          "source": ""
+        },
+        {
+          "name": "Wine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png",
+          "quantity": 1,
+          "quality": "Silver Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png",
+          "quantity": 1,
+          "quality": "Silver Quality Icon.png",
+          "source": "Silver or better qualityWine(any)"
+        },
+        {
+          "name": "Dinosaur Mayonnaise",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Dinosaur_Mayonnaise.png/24px-Dinosaur_Mayonnaise.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Mayonnaise Machine"
+        },
+        {
+          "name": "Prismatic Shard",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Mining"
+        },
+        {
+          "name": "Ancient Fruit",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+          "quantity": 5,
+          "quality": "Gold Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Ancient_Fruit.png/24px-Ancient_Fruit.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Gold qualityAncient Fruit(5)"
+        },
+        {
+          "name": "Void Salmon",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Void_Salmon.png/24px-Void_Salmon.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": ""
+        },
+        {
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Void_Salmon.png/24px-Void_Salmon.png",
+          "quantity": 1,
+          "quality": "Gold Quality Icon.png",
+          "source": "Gold or Iridium qualityVoid Salmon"
+        },
+        {
+          "name": "Caviar",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/89/Caviar.png/24px-Caviar.png",
+          "quantity": 1,
+          "quality": null,
+          "source": "Preserves Jarproduct fromSturgeonroe"
+        }
+      ]
+    }
+  ]
+}
